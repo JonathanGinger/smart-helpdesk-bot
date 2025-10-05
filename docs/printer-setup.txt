@@ -1,0 +1,35 @@
+Printer Setup Guide
+
+To connect to office printers:
+
+1. Check printer availability:
+   - Look for printer names on network
+   - Common printers: HP-LaserJet, Canon-Print, Xerox-Copier
+
+2. Install printer drivers:
+   - Download from manufacturer website
+   - Or use Windows automatic driver installation
+   - Restart computer after installation
+
+3. Add printer to your computer:
+   - Go to Settings > Devices > Printers
+   - Click "Add a printer or scanner"
+   - Select your printer from the list
+   - Follow setup wizard
+
+4. Test printing:
+   - Print a test page
+   - Check print quality and alignment
+
+Common Issues:
+- Printer not found: Check network connection
+- Print job stuck: Restart print spooler service
+- Poor quality: Clean print heads or replace toner
+- Access denied: Contact IT for printer permissions
+
+For wireless printers:
+- Connect printer to WiFi network
+- Use printer's IP address for setup
+- Enable printer sharing if needed
+
+Contact IT support if you need help with specific printer models.

@@ -1,0 +1,58 @@
+Security Guidelines
+
+Company security policies and best practices:
+
+1. Password Security:
+   - Use strong, unique passwords
+   - Change passwords every 90 days
+   - Never share passwords with anyone
+   - Use password manager if approved by IT
+
+2. Email Security:
+   - Don't open suspicious attachments
+   - Verify sender before clicking links
+   - Report phishing emails to IT
+   - Don't send sensitive data via email
+
+3. Device Security:
+   - Lock computer when away from desk
+   - Use screen saver with password
+   - Keep software updated
+   - Don't install unauthorized software
+
+4. Network Security:
+   - Only connect to approved networks
+   - Use VPN when working remotely
+   - Don't use public WiFi for work
+   - Report suspicious network activity
+
+5. Data Protection:
+   - Don't store sensitive data on personal devices
+   - Use approved cloud storage only
+   - Encrypt sensitive files
+   - Follow data retention policies
+
+6. Physical Security:
+   - Don't leave devices unattended
+   - Secure laptops when traveling
+   - Use privacy screens in public
+   - Report lost or stolen devices immediately
+
+7. Incident Reporting:
+   - Report security incidents to IT immediately
+   - Don't try to fix security issues yourself
+   - Document what happened
+   - Preserve evidence if possible
+
+8. Compliance:
+   - Follow company security policies
+   - Complete security training annually
+   - Understand data handling requirements
+   - Report policy violations
+
+Emergency contacts:
+- IT Security: security@company.com
+- IT Support: support@company.com
+- Security hotline: extension 9111
+
+Remember: Security is everyone's responsibility!

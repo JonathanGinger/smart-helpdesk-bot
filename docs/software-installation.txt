@@ -1,0 +1,16 @@
+Software Installation Policy
+
+Approved software installation process:
+1. Submit software request to IT department
+2. Include business justification
+3. Wait for approval (1-2 business days)
+4. IT will install software remotely
+5. User receives confirmation email
+
+Prohibited software:
+- Personal file sharing programs
+- Unlicensed software
+- Games and entertainment software
+- Software not approved by security team
+
+For urgent software needs, contact IT support directly.

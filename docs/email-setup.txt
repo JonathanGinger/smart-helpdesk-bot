@@ -1,0 +1,15 @@
+Email Setup Guide
+
+To set up your email:
+1. Open your email client (Outlook, Gmail, etc.)
+2. Go to Settings or Preferences
+3. Select 'Add Account'
+4. Choose 'IMAP' or 'POP3'
+5. Enter server settings:
+   - IMAP: imap.company.com
+   - SMTP: smtp.company.com
+   - Port: 993 (IMAP) or 587 (SMTP)
+6. Enter your username and password
+7. Test the connection
+
+Contact IT support if you need specific server settings.

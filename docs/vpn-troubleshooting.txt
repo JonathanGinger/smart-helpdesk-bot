@@ -1,0 +1,21 @@
+VPN Connection Troubleshooting
+
+Common VPN issues and solutions:
+
+1. Cannot connect to VPN:
+   - Check internet connection
+   - Verify VPN credentials
+   - Restart VPN client
+   - Check firewall settings
+
+2. Slow connection:
+   - Try different server location
+   - Close unnecessary applications
+   - Check bandwidth usage
+
+3. Frequent disconnections:
+   - Update VPN client
+   - Check network stability
+   - Contact IT support
+
+VPN client download: https://company.com/vpn

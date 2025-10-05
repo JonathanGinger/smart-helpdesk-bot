@@ -1,0 +1,54 @@
+Account Management Guide
+
+Managing your work account:
+
+1. Account Information:
+   - Username: Usually firstname.lastname
+   - Email: firstname.lastname@company.com
+   - Password: Must be changed every 90 days
+
+2. Password Requirements:
+   - Minimum 8 characters
+   - Must include uppercase, lowercase, numbers, symbols
+   - Cannot reuse last 5 passwords
+   - Cannot contain personal information
+
+3. Changing Password:
+   - Press Ctrl+Alt+Del
+   - Select "Change a password"
+   - Enter current password
+   - Enter new password twice
+   - Click OK
+
+4. Account Settings:
+   - Access: Go to company portal
+   - Update personal information
+   - Change security questions
+   - Manage two-factor authentication
+
+5. Email Account:
+   - Outlook: Check settings for server info
+   - Mobile: Use IMAP settings
+   - Webmail: Access via company portal
+
+6. File Access:
+   - Personal drive: H:\ drive
+   - Shared folders: S:\ drive
+   - Home directory: \\server\users\username
+
+7. Software Access:
+   - Company apps: Available through portal
+   - Licensed software: Check with IT
+   - Cloud services: Office 365, Google Workspace
+
+8. Account Issues:
+   - Locked account: Contact IT support
+   - Forgotten password: Use password reset
+   - Access denied: Check permissions with IT
+   - Account disabled: Contact HR and IT
+
+Security reminders:
+- Never share your password
+- Log out when finished
+- Report suspicious activity
+- Keep contact info updated

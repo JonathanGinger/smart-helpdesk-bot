@@ -1,0 +1,48 @@
+WiFi Connection Troubleshooting
+
+To connect to company WiFi:
+
+1. Find WiFi network:
+   - Network name: "Company-WiFi" or "Office-Network"
+   - Password: Usually posted in common areas
+   - Contact IT if you don't have the password
+
+2. Connect your device:
+   - Go to WiFi settings
+   - Select company network
+   - Enter password when prompted
+   - Wait for connection confirmation
+
+3. Troubleshooting common issues:
+
+Network not visible:
+- Check if WiFi is enabled on your device
+- Move closer to router/access point
+- Restart WiFi adapter
+
+Can't connect:
+- Verify password is correct
+- Forget network and reconnect
+- Restart your device
+- Check if device is allowed on network
+
+Slow connection:
+- Check signal strength
+- Move closer to access point
+- Close unnecessary apps using bandwidth
+- Restart router if you have access
+
+Connection drops frequently:
+- Update WiFi drivers
+- Check for interference from other devices
+- Contact IT for network diagnostics
+
+Security notes:
+- Only connect to official company networks
+- Don't use public WiFi for work
+- Report suspicious network activity
+
+For guest WiFi:
+- Network: "Company-Guest"
+- Password: Ask reception or IT
+- Limited access to internet only
